@@ -1,0 +1,1 @@
+# Leetcode_SQL-50_StudyPlan_Solution
